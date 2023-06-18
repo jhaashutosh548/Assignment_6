@@ -1,0 +1,41 @@
+{
+    "employees": [
+      {
+        "Name": "Abdul",
+        "DOB": "01-05-1990",
+        "Height": 180,
+        "City": "Amaravati",
+        "state": "Andhra Pradesh"
+        
+      },
+      {
+        "Name": "Balveer",
+        "DOB": "05-10-1985",
+        "Height": 165,
+        "City": "Dispur",
+        "State": "Assam"
+      },
+      {
+        "Name": "Harish",
+        "DOB": "15-07-1992",
+        "Height": 175,
+        "City": "Gandhinagar",
+        "State": "Gujarat"
+      },
+      {
+        "Name": "Raghav",
+        "DOB": "20-03-1988",
+        "Height": 170,
+        "City": "Mumbai",
+        "State": "Maharashtra"
+      },
+      {
+        "Name": "Rohan",
+        "DOB": "11-05-1995",
+        "Height": 190,
+        "City": "Chennai",
+        "State": "Tamil Nadu"
+        
+      }
+    ]
+  }
